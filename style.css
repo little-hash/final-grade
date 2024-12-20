@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    text-align: center;
+    overflow: auto;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200%; /* Full width of the viewport */
+    height: 200%; /* Full height of the viewport */
+    background-image: url('5acadef9867d74b3ce340e17e0b64737_4352268156907430276.png');
+    background-size: cover; /* Ensures it covers the whole screen */
+    background-position: center; /* Centers the image */
+    z-index: -1;
+    animation: moveBackground 60s linear infinite; /* Slower, subtle movement */
+}
+
+@keyframes moveBackground {
+    0% {
+        transform: translate(0, 0);
+    }
+    50% {
+        transform: translate(-10%, -10%); /* Small movement */
+    }
+    100% {
+        transform: translate(0, 0); /* Returns to original position */
+    }
+}
+
+
+h1 {
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+#search-bar {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.character-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.character-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 250px;
+    text-align: left;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.character-card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.character-card h2 {
+    margin: 0 0 10px;
+}
+
+.character-card p {
+    margin: 5px 0;
+}
+
+.rarity-stars {
+    color: gold;
+}
+
+#character-details {
+    display: none;
+    text-align: left;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+#back-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#back-button:hover {
+    background-color: #0056b3;
+}

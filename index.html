@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Genshin Impact Characters</title>
+</head>
+
+<body>
+    <h1>Genshin Impact Characters</h1>
+
+    <!-- Search Bar -->
+    <input 
+        type="text" 
+        id="search-bar" 
+        placeholder="Search characters by name..." 
+        oninput="filterCharacters()" />
+
+    <!-- Character Grid -->
+    <div id="character-grid" class="character-grid"></div>
+
+    <!-- Character Details Section -->
+    <div id="character-details" class="character-details" style="display: none;">
+        <button id="back-button" onclick="showCharacterGrid()">Back</button>
+        <h2 id="details-name"></h2>
+        <img 
+            id="details-image" 
+            src="" 
+            alt="Character Image" 
+            style="width: 100%; height: auto; margin-bottom: 10px; border-radius: 5px;">
+        <p><strong>Element:</strong> <span id="details-element"></span></p>
+        <p><strong>Weapon:</strong> <span id="details-weapon"></span></p>
+        <p><strong>Rarity:</strong> <span id="details-rarity" class="rarity-stars"></span></p>
+        <p><strong>Region:</strong> <span id="details-region"></span></p>
+        <p id="details-info" style="margin-top: 15px;"></p>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="./index.js"></script>
+</body>
+
+</html>

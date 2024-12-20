@@ -1,0 +1,184 @@
+{
+  "characters": [
+    {
+      "name": "Albedo",
+      "element": "Geo",
+      "weapon": "Sword",
+      "rarity": 5,
+      "region": "Mondstadt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUN2TfY8nAwHRr3ViRLK5I-zUFZbDBFVv-7w&s",
+      "details": "Albedo is a reserved and intellectual individual who focuses heavily on his research in alchemy. He is curious about the fundamental nature of the world and often speaks in a thoughtful, philosophical manner. Despite his calm demeanor, Albedo is shrouded in mystery, as his origins and true purpose are not entirely known. He is often referred to as the Kreideprinz (Chalk Prince), which alludes to his alchemical prowess and connection to Khemia, an ancient alchemical art."
+    },
+    {
+      "name": "Amber",
+      "element": "Pyro",
+      "weapon": "Bow",
+      "rarity": 4,
+      "region": "Mondstadt",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_4:3,f_auto,q_auto,g_auto/shape/cover/sport/dataimagepngbase64iVBORw0KGgoAAAANSUhEUgAAB9QAAAUo-0ec969dfed7c12319829d404bbab9de8.jpg",
+      "details": "Amber is known for her cheerful, optimistic personality. As the Outrider, she is tasked with patrolling the outskirts of Mondstadt, ensuring the safety of the city from monsters and threats. Despite her role as the only Outrider, Amber is dedicated to her job and takes it very seriously. She is loyal to her homeland and always eager to lend a helping hand to her fellow knights or anyone in need.Her deep affection for Mondstadt is matched only by her desire to protect the city and its people. Amber's bravery is often tempered with her kindness, and she is always the first to jump in when someone is in danger. She may be seen as inexperienced by some, but her courage and tenacity make her a valuable ally.While she is often seen as cheerful and lighthearted, she does take her responsibilities seriously, often training hard to improve her skills and ensure the safety of Mondstadt."
+    },
+    {
+      "name": "Ayaka",
+      "element": "Cryo",
+      "weapon": "Sword",
+      "rarity": 5,
+      "region": "Inazuma",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi31pTBYJzY2GwRNVm80hUiAqIQEjnibVFTD1WgdPzhRh9BzoE9aHzxDychKiDpNvEmXKrvCqAsvr7vhIs_9FqPNKbBaXbPcpPwDhF5N-zwTGENqWzNajzkT-sDiodXIzXdVOq88MJNgthc/w919/ayaka-genshin-impact-art-1-4k-uhdpaper.com-897.1_a-thumbnail.jpg",
+      "details": "Ayaka is the eldest daughter of the Kamisato Clan, and she holds an important role in both her family and the governance of Inazuma. Known for her gentle demeanor and refined manners, she carries the weight of her responsibilities with grace and composure. However, she is also deeply caring and empathetic, always concerned about the well-being of those around her.Despite her noble status, Ayaka remains humble and approachable, often engaging with common folk and showing kindness to everyone she meets. She is highly disciplined and values honor and tradition, as seen in her commitment to fulfilling her duties as the head of the Kamisato Clan.Although she leads a life of privilege, Ayaka is not immune to the challenges of her position. Her deep sense of responsibility for her clan and her people sometimes weighs heavily on her, but she perseveres, determined to make her family proud and uphold the values of her homeland.Ayaka’s skills as a swordfighter and Cryo user are a result of her intense training and discipline. She is known as a fearsome opponent in combat, capable of utilizing the elements of ice to their fullest extent."
+    },
+    {
+      "name": "Barbara",
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "rarity": 4,
+      "region": "Mondstadt",
+      "image": "https://scontent.ffjr1-5.fna.fbcdn.net/v/t39.30808-6/449929289_497789782905296_1500352967779100620_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Jb_DPUg4qaQQ7kNvgHn83sq&_nc_zt=23&_nc_ht=scontent.ffjr1-5.fna&_nc_gid=A480qNTtAEOVIUfLaCHFtvm&oh=00_AYCagaMicUDbu86mLU-puVpzyCwkxT_Ymg22HHFzkpEcvg&oe=676AF213",
+      "details": "Barbara is a bright, cheerful, and optimistic young woman. As the Deaconess of the Church of Favonius, she is responsible for helping those in need, whether through physical healing or offering words of encouragement. She is deeply compassionate and always seeks to bring joy and comfort to the people of Mondstadt. Her unwavering optimism and dedication to her duties have earned her the title of Shining Idol.Barbara is also incredibly hardworking and takes her role seriously, often spending long hours attending to the needs of the people. While she has a warm and friendly demeanor, she is a bit of a perfectionist and can sometimes push herself too hard in her efforts to help others. Despite this, her heart of gold shines through in everything she does, and she is admired by many.Barbara is particularly close to her older brother, Albedo, and although she often feels overshadowed by his brilliance, she remains a supportive and loving sibling. She holds her idol status with humility, focusing on being a positive influence rather than seeking fame or recognition."
+    },
+    {
+      "name": "Beidou",
+      "element": "Electro",
+      "weapon": "Claymore",
+      "rarity": 4,
+      "region": "Liyue",
+      "image": "https://staticg.sportskeeda.com/editor/2021/07/da28d-16271932492418-800.jpg?w=640",
+      "details": "Beidou hails from Liyue and is known for being the captain of The Crux Fleet, a group of pirates who live by their own rules, navigating the seas of Teyvat. Her ship, the Crux, is a legendary vessel, and she is well-respected for her leadership and combat prowess.Beidou has a charming and charismatic personality, and she’s known for her boisterous laughter, confidence, and fierce loyalty to her crew. Despite her somewhat fearsome appearance, she’s a woman of honor, and her interactions with others reveal a surprisingly caring and protective side. She is often seen as someone who values freedom, loyalty, and strength above all else, and she has a deep respect for those who can stand strong in the face of adversity.She is also extremely skilled in combat, able to wield a Claymore with great precision and control, making her a force to be reckoned with on the battlefield. Her Electro abilities make her an excellent damage dealer, and her Elemental Burst allows her to deliver powerful AoE Electro damage while providing her with an electro shield."
+    },
+    {
+      "name": "Bennett",
+      "element": "Pyro",
+      "weapon": "Sword",
+      "rarity": 4,
+      "region": "Mondstadt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvzCh9ohMe75s9Fn8upkfwHunK3_fCd7HQA&s",
+      "details": "Bennet has a tragic yet hopeful backstory. He was born to a mother who abandoned him and a father who left him behind in search of adventure. Bennet was raised by his grandmother in Mondstadt. Despite the hardships of his childhood, Bennet has a bright and carefree attitude, always striving to be positive and upbeat. He joined the Adventurers' Guild at a young age and has since made a name for himself as an aspiring adventurer.Bennet is fiercely loyal to his friends and teammates, often putting their needs above his own. His personal motto is that it’s better to try and fail than never to try at all. He is always optimistic and believes that no matter how bad things seem, there’s always something to be grateful for."
+    },
+    {
+      "name": "Chongyun",
+      "element": "Cryo",
+      "weapon": "Claymore",
+      "rarity": 4,
+      "region": "Liyue",
+      "image": "https://imaginaire.com/docs/FIESMV0AKAIMN8X%20(6).JPG",
+      "details": "Chongyun is a devoted exorcist born into a family with a long history of spiritual practice. His parents are both famous exorcists, and Chongyun was raised with a sense of responsibility to carry on the family tradition. However, due to his high body temperature, Chongyun has a unique issue—he constantly exudes a natural heat, which contradicts his Cryo abilities. This warmth gives him a bright and energetic personality, but it can also cause some comical moments when he tries to maintain his cool demeanor during exorcisms.His primary goal is to help those in need by ridding them of evil spirits and keeping Liyue safe from harm. Despite his appearance as a serious exorcist, Chongyun often struggles with balancing his inner warmth and his Cryo element. He believes in hard work and diligence, but his good-natured nature also shows through when interacting with others."
+    },
+    {
+      "name": "Diluc",
+      "element": "Pyro",
+      "weapon": "Claymore",
+      "rarity": 5,
+      "region": "Mondstadt",
+      "image": "https://i.redd.it/zqiq0lbmqo891.jpg",
+      "details": "Diluc is a complex character with a deeply tragic past. He grew up in Mondstadt as the heir to the Dawn Winery, one of the most prosperous families in the region. He was once a member of the Knights of Favonius, where he served alongside his younger brother Kaeya. However, following a tragic incident involving his father, Ragnvindr, and a betrayal within the Knights of Favonius, Diluc resigned from his position and became the Darknight Hero.His mistrust of authority, particularly the Knights of Favonius, and his commitment to seeking justice without hesitation define him as a vigilante. He is serious, composed, and not one to shy away from taking matters into his own hands when it comes to protecting Mondstadt and its people. Despite his stoic nature, Diluc’s love for his homeland and the people of Mondstadt shines through in his actions."
+    },
+    {
+      "name": "Diona",
+      "element": "Cryo",
+      "weapon": "Bow",
+      "rarity": 4,
+      "region": "Mondstadt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT55Y9tTZlkuN9wLKuE2LVPl-EfyBDEGEB0jQ&s",
+      "details": "Diona is the daughter of Diona Kätzlein, a skilled bartender, and she is well-known for her hatred of alcohol. Her father is a bartender at the Cat's Tail Tavern in Mondstadt, and while Diona has inherited his skills in mixing drinks, she is fiercely opposed to the idea of serving alcohol because of the chaotic behavior of the tavern's patrons. Diona is a highly self-sufficient young woman, fiercely protective of her hometown, and takes pride in her independence.Diona is a half-Katzen, which explains her cat-like appearance and abilities. Though her father often tries to get her involved in the tavern business, Diona would rather spend her time ensuring that no one harms the people of Mondstadt, especially with her unique abilities as a Cryo user. Despite her strong dislike of alcohol, Diona has a natural affinity for mixing potions and concocting non-alcoholic beverages."
+    },
+    {
+      "name": "Eula",
+      "element": "Cryo",
+      "weapon": "Claymore",
+      "rarity": 5,
+      "region": "Mondstadt",
+      "image": "https://cdn.mos.cms.futurecdn.net/XZHZ7MzHYmNEmycWA7vQwM.jpg",
+      "details": "Eula's Lawrence Clan was once a noble family that wielded significant power and influence in Mondstadt. However, the Lawrence family has a dark history, marked by their collaboration with Mondstadt's old aristocracy, which led to their eventual downfall. As a result, Eula's family is viewed with suspicion and disdain by many citizens of Mondstadt. Despite this, Eula remains proud of her lineage and strives to overcome the stigma attached to her name.Though she is technically nobility, Eula is anything but conventional. She joined the Knights of Favonius and rose to the rank of Captain of the Reconnaissance Company. Eula is stoic, serious, and somewhat distant, but she has a strong sense of duty and a genuine desire to protect the people of Mondstadt. She also harbors a desire for justice, particularly when it comes to clearing her family's tarnished reputation.Eula often struggles with the duality of her nature: her noble upbringing and her desire to be accepted by the common people. Despite her cold and serious exterior, Eula is deeply loyal to her friends, and her strong sense of honor drives her to act in the service of the greater good."
+    },
+    {
+      "name": "Fischl",
+      "element": "Electro",
+      "weapon": "Bow",
+      "rarity": 4,
+      "region": "Mondstadt",
+      "image": "https://w0.peakpx.com/wallpaper/769/501/HD-wallpaper-fischl-by-sheya-r-fischl-thumbnail.jpg",
+      "details": "Fischl's true name is Amy (which she rarely uses), but she prefers to be known by her title, Fischl von Luftschloss Narfidort, which she claims represents her royal bloodline. Fischl has a very dramatic personality, often speaking in a theatrical manner and referring to herself as the Prinzessin der Verurteilung (Princess of Condemnation).She’s not really a princess, but rather an eccentric adventurer, and her title is more of a role she has assumed to represent her unusual sense of grandeur. Her manner of speech, overblown and theatrical, makes her seem distant from the ordinary world, but she’s actually a kind-hearted individual who cares deeply for others.She is also deeply attached to her raven companion, Oz, who is much more than a pet. Oz is a powerful Electro spirit that Fischl summons to assist her in combat."
+    },
+    {
+      "name": "Ganyu",
+      "element": "Cryo",
+      "weapon": "Bow",
+      "rarity": 5,
+      "region": "Liyue",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/01/genshin-impact-ganyu-abilities-backstory-01.jpg",
+      "details": "Ganyu's nature is a mix of both her human and adeptus heritage. She was born to a human mother and a mountain god, and her story revolves around balancing her mortal side with her role as an adeptus. As a child, Ganyu was raised in the wilderness, but she later became one of the trusted figures in Liyue's bureaucracy.Although she holds a prestigious role as the general secretary of the Liyue Qixing, Ganyu is humble and hardworking. She tends to be quite shy and soft-spoken, preferring the company of nature over crowded gatherings. Her shy demeanor hides a deep love for Liyue and a sense of responsibility for the people of her region."
+    },
+    {
+      "name": "Hu Tao",
+      "element": "Pyro",
+      "weapon": "Polearm",
+      "rarity": 5,
+      "region": "Liyue",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/kz4gh3k0/poster/k/g/m/medium-red-eyes-hu-tao-genshin-impact-video-game-matte-finish-original-imagb787cyfmft9f.jpeg?q=90&crop=false",
+      "details": "Hu Tao’s upbeat and whimsical attitude contrasts with her serious position overseeing the funeral parlor, and this duality is a central part of her charm. She sees her role as more than just conducting ceremonies—she believes in guiding souls to the afterlife with dignity, often sprinkling her duties with humor to bring comfort to grieving families.Raised in the Wangsheng Funeral Parlor, Hu Tao is proud of her heritage and her family’s legacy. However, she does not let the grim nature of her job define her—she’s a lively, carefree spirit who enjoys teasing her colleagues and friends."
+    },
+    {
+      "name": "Jean",
+      "element": "Anemo",
+      "weapon": "Sword",
+      "rarity": 5,
+      "region": "Mondstadt",
+      "image": "https://img.gurugamer.com/resize/740x-/2021/08/09/jeans-strong-and-weak-points-9e82.jpg",
+      "details": "Jean is a paragon of diligence, always putting the well-being of Mondstadt and its citizens above her own. Despite her demanding role, she remains humble, approachable, and caring. She takes inspiration from Vennessa, the legendary Dandelion Knight, and strives to embody her virtues.Jean is a member of the prestigious Gunnhildr Clan, known for producing generations of knights. This lineage, combined with her tireless efforts, shapes her sense of duty and responsibility."
+    },
+    {
+      "name": "Kaeya",
+      "element": "Cryo",
+      "weapon": "Sword",
+      "rarity": 4,
+      "region": "Mondstadt",
+      "image": "https://keqingmains.com/wp-content/uploads/2023/06/kaeya-tai.webp",
+      "details": "Kaeya is widely regarded as reliable and resourceful, always ready to assist the Knights or the citizens of Mondstadt. However, his mysterious origins and secretive behavior hint at a past he rarely discusses. Despite his playful and mischievous attitude, Kaeya takes his responsibilities seriously and is fiercely loyal to Mondstadt.Born in Khaenri’ah, Kaeya was sent to Mondstadt as a child by his father to act as a last hope for their homeland. This secret weighs heavily on him, but he has chosen to live as a protector of Mondstadt, even at the cost of revealing his true heritage."
+    },
+    {
+      "name": "Keqing",
+      "element": "Electro",
+      "weapon": "Sword",
+      "rarity": 5,
+      "region": "Liyue",
+      "image": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:quality(100)/2023_1_16_638094802706521093_keqing-genshin-impact.jpg",
+      "details": "Keqing is a pragmatic and diligent leader who values human effort over divine intervention. She believes that Liyue's future should be shaped by its people, not dictated by the Archons. Her philosophy often puts her at odds with traditionalists, but she remains resolute in her convictions.Despite her strict and no-nonsense exterior, Keqing is caring and genuinely invested in the well-being of Liyue and its citizens."
+    },
+    {
+      "name": "Klee",
+      "element": "Pyro",
+      "weapon": "Catalyst",
+      "rarity": 5,
+      "region": "Mondstadt",
+      "image": "https://cdn-wp.thesportsrush.com/2023/08/7b4ea8c4-cover-klee.jpg?format=auto&w=3840&q=75",
+      "details": "Klee is a fun-loving, energetic, and somewhat mischievous little girl with an immense love for explosions. She has a fascination with creating bombs and other pyrotechnic devices, which she often uses to fish or prank her friends. While her antics can sometimes cause chaos, her genuine enthusiasm and kind heart make her well-loved by everyone in Mondstadt.The Acting Grand Master Jean often puts her in solitary confinement (a time-out room) when her experiments go awry, but Klee always bounces back with her infectious positivity."
+    },
+    {
+      "name": "Mona",
+      "element": "Hydro",
+      "weapon": "Catalyst",
+      "rarity": 5,
+      "region": "Mondstadt",
+      "image": "https://hybrid.co.id/wp-content/uploads/2022/08/a82c725bdedd47edb1e61a6e9ec6cf3f_73-y78WZE2LTugwmzlEwIHEGWKmjQwbVWFSMksjLurI.webp",
+      "details": "Mona is a highly skilled astrologer who takes pride in her ability to read the stars and divine truths. However, she often comes across as haughty and blunt, as she refuses to sugarcoat her words. Mona’s commitment to uncovering the truth has left her in constant financial trouble, as she refuses to profit from false readings or commercialized astrology.She works as an apprentice under a renowned astrologer, whom she deeply respects despite their occasional disagreements. Mona’s fascination with the stars drives her to seek knowledge rather than wealth, and she is often too absorbed in her studies to notice her own hardships."
+    },
+    {
+      "name": "Ningguang",
+      "element": "Geo",
+      "weapon": "Catalyst",
+      "rarity": 4,
+      "region": "Liyue",
+      "image": "https://traveler.gg/wp-content/uploads/image-4051-1024x1024.png",
+      "details": "Ningguang is renowned for her shrewd business acumen and unmatched foresight. She oversees Liyue's economic and trade operations from her extravagant Jade Chamber, a floating palace that symbolizes her wealth and influence. Ningguang is fiercely ambitious and tirelessly works to maintain Liyue's prosperity, but her confidence and poise often hide her humble beginnings.Despite her calculated demeanor, Ningguang genuinely cares for Liyue and its people. She seeks to create a stable and thriving environment, even if it means making difficult decisions. Her rise to power is a testament to her determination, as she built her empire from nothing."
+    },
+    {
+      "name": "Raiden Shogun",
+      "element": "Electro",
+      "weapon": "Polearm",
+      "rarity": 5,
+      "region": "Inazuma",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/12/genshin-impact-raiden-shogun-cosplay.jpg",
+      "details": "Raiden Shogun represents a duality between her human form, Ei, and the puppet she created to act as her unchanging enforcer. Ei, the actual Archon, is a deeply introspective and contemplative individual who seeks eternity as a means to preserve Inazuma against the passage of time. However, her creation, the Raiden Shogun puppet, is an emotionless executor of her will, enforcing her vision of eternity with strict discipline.This dichotomy highlights Ei's struggle to balance her ideals with the reality of human existence. Her story explores themes of loss, the burdens of leadership, and the challenge of maintaining order in a rapidly changing world."
+    }
+  ]
+}
